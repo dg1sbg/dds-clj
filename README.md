@@ -1,8 +1,8 @@
-# <img src="https://github.com/dg1sbg/cellar/raw/X.01.00/root-cellar.jpg"/>  THE CELLAR LIBRARY
+# <img src="https://github.com/dg1sbg/dds-clj/raw/master/doc/serveimage.jpg"/>  <pre>  DDS-CLJ  </pre>
 
 <p><h2><b>Gönninger B&T's DDS Clojure Wrapper Library for RTI Connext DDS</b></h2>
 
-## NOTE:  June 3, 2017 - This contains pre-release X.01.00 of Cellar version A.01.00.
+## NOTE:  June 3, 2017 - This contains pre-release X.01.00 of DDS-CLJ.
 
 ## What Is This?
 DDS-CLJ is a wrapper around the RTI Connext DDS Java API. This library provides a thin layer of functions to ensure safe usage of the RTI Connext DDS Java API. It exposes the functionality as Clojure functions.
@@ -10,11 +10,9 @@ DDS-CLJ is a wrapper around the RTI Connext DDS Java API. This library provides 
 It provides (not a complete list):
 
 * Assertions to check for valid parameters in function calls to ensure safe calls to the underlying Java API
-*
-* Most of the functions described in the book On Lisp by Paul Graham
-* An implementation of Finite State Machines
+* Debug and logging facilities to handle DDS issues
 
-and much more 😉 - you are invited to explore ...
+and much more - you are invited to explore ...
 
 ## Latest Release
 The upcoming release is [TRIANGULUM - CELLAR X.01.00](https://github.com/dg1sbg/cellar/releases/tag/CELLAR_PREREL_X0100). See the [changes](https://github.com/dg1sbg/cellar/milestone/1) for this release.
