@@ -15,7 +15,7 @@ It provides (not a complete list):
 and much more - you are invited to explore ...
 
 ## Latest Release
-The upcoming release is [TRIANGULUM - CELLAR X.01.00](https://github.com/dg1sbg/cellar/releases/tag/CELLAR_PREREL_X0100). See the [changes](https://github.com/dg1sbg/cellar/milestone/1) for this release.
+The upcoming release is [LEPUS - DDS-CLJ X.01.00](https://github.com/dg1sbg/dds-clj/releases/tag/A.01.00). See the [changes](https://github.com/dg1sbg/dds-clj/milestone/1) for this release.
 
 ## Dependencies: Required external packages and libraries
 DDSA-CLJ builds on the following packages and libraries:
