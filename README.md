@@ -2,7 +2,7 @@
 
 <p><h2><b>Gönninger B&T's DDS Clojure Wrapper Library for RTI Connext DDS</b></h2>
 
-## NOTE:  June 3, 2017 - This contains pre-release X.01.00 of DDS-CLJ.
+## NOTE:  December 3, 2017 - This contains pre-release X.01.00 of DDS-CLJ.
 
 ## What Is This?
 DDS-CLJ is a wrapper around the RTI Connext DDS Java API. This library provides a thin layer of functions to ensure safe usage of the RTI Connext DDS Java API. It exposes the functionality as Clojure functions.
