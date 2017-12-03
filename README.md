@@ -1,4 +1,4 @@
-# <img src="https://github.com/dg1sbg/dds-clj/raw/master/doc/serveimage.jpg"/>  <pre>  DDS-CLJ  </pre>
+# <img src="https://github.com/dg1sbg/dds-clj/raw/master/doc/serveimage.jpg"/>  DDS-CLJ
 
 <p><h2><b>Gönninger B&T's DDS Clojure Wrapper Library for RTI Connext DDS</b></h2>
 
